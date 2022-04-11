@@ -156,6 +156,7 @@ li {
 
 .Poppins {
     line-height: 1.25em;
+    vertical-align: middle; 
 }
 
 .font-family { vertical-align: text-top; }
